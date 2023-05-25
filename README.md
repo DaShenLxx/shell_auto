@@ -1,0 +1,2 @@
+# shell_auto
+Linux系统下使用Shell脚本自动从Github拉取并打包部署项目
